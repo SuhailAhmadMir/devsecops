@@ -5,7 +5,7 @@ ZAP - Development Security Operations
 1. Clone the repo
 2. Update the option.prop file to set basic authentication for secure APIs scan.
 
-**Note:** For more details please follow the [youtube tutorial](https://www.youtube.com/watch?v=rHhn6UE307I)
+
 
 Notes to the developer:
 - Attached *.html is just for reference. It will get generated every time when we execute the ZAP scan and html report argument is been passed.
